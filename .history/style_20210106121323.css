@@ -1,0 +1,14 @@
+div{
+    border: 1rem black solid ;
+}
+body{
+    background-color: aqua;
+}
+
+#redText{
+    color: red;
+}
+
+.yellowBorder{
+    border: 1rem yellow
+}
